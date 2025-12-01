@@ -15,11 +15,11 @@ Hope you enjoy... or rather, hope you're ready to prove your mastery!
 - Easy to learn
 ## Installation
 
-Install my project from Planet Minecraft
+Install my project from Itch.io
 
 ```bash
   goto the link https://starmarine06.itch.io/tower-defense
-  And press download datapack.(No resource pack required)
+  And press download.
 ```
 OR
 
