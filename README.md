@@ -25,6 +25,10 @@ OR
 
 [![Click Here](https://img.shields.io/static/v1?label=Click%20Here&message=Download&color=green)](https://starmarine06.itch.io/tower-defense)
     
+## Source
+
+The game's source isn't public. This repo holds the README and the license, the game itself lives on [itch.io](https://starmarine06.itch.io/tower-defense).
+
 ## 🚀 About Me
 Ever wonder about the mind behind the magic, the unseen hand that conjures extraordinary experiences in the digital realm?
 
